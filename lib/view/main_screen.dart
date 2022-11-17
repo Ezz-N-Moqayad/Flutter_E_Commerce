@@ -1,9 +1,5 @@
 import 'dart:async';
-
-///
 import 'package:flutter/material.dart';
-
-///
 import '../components/big_item.dart';
 import '../utils/strings.dart';
 import '../components/middle_text.dart';
